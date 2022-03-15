@@ -1,1 +1,1 @@
-### MSP
+### MSP Tech Club
