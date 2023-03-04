@@ -9,3 +9,6 @@ https://app.testdome.com/cert/f667a0a707d3423cba90c0ce81da573c
 
 React
 https://app.testdome.com/cert/f4e9050de45046309e296e0cf28a67a9
+
+JavaScript
+https://www.testdome.com/certificates/03704b624fde423aa69aa6c120e80e20
